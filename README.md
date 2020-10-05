@@ -11,7 +11,7 @@
    * gulpfile.js
    > contains the code required to compile sass script
     
-    Use this command **npx gulp** by concurrently opening _index.html_ from the dist folder
+  Use this command **npx gulp** by concurrently opening _index.html_ from the dist folder
 
-      > You will be able to notice that _npx gulp_ converts code from SCSS to CSS after compiling.
-      > You will also be able to see the changes made in **.scss file** would be overridden in **.css file**.
+    > You will be able to notice that _npx gulp_ converts code from SCSS to CSS after compiling.
+    > You will also be able to see the changes made in **.scss file** would be overridden in **.css file**.
