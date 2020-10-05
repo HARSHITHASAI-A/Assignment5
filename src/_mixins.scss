@@ -4,7 +4,7 @@
   }
   
   @mixin socialMediaImg($offset:  0px) {
-    background:url($socialMediaImg) -40px * $offset 0;
+    background:url($socialMediaImg) -38px * $offset 0;
   }
   
   @mixin navbar($width, $height, $float) {
