@@ -235,6 +235,16 @@ footer {
     text-indent: -9999px;
     width: 36px;
     height: 36px; }
+  .social-media div:nth-child(0) {
+    background: url("../images/social-media.png") 38px 0; }
+  .social-media div:nth-child(1) {
+    background: url("../images/social-media.png") 0px 0; }
+  .social-media div:nth-child(2) {
+    background: url("../images/social-media.png") -38px 0; }
+  .social-media div:nth-child(3) {
+    background: url("../images/social-media.png") -76px 0; }
+  .social-media div:nth-child(4) {
+    background: url("../images/social-media.png") -114px 0; }
   .social-media div {
     float: left;
     margin-right: 5px; }
